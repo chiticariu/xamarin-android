@@ -1,4 +1,7 @@
-This is a mono / java repository helping to build Xamarin Android or Xamarin Forms project in a CI container.
+# docker-xamarin-android
+Docker image include mono/java for building Xamarin Android or Xamarin Forms project in a CI container.
+
+[![Docker Build Status](https://img.shields.io/docker/cloud/build/chiticariu/xamarin-android.svg)](https://cloud.docker.com/repository/docker/chiticariu/xamarin-android)
 
 Installed Android SDK's v27 and v28
 Installed build tools v27.0.3 and 28.0.3
